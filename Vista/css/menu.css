@@ -1,0 +1,57 @@
+body{
+	background-image: url('../../Vista/Imagen/LogoBlancoG.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+    background-position: center top;
+    background-attachment: fixed;
+}
+
+*{
+	padding: 0px;
+	margin: 0px;
+}
+
+#cabecera {
+	margin: auto;
+	width: 900px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+ul, ol {
+	list-style: none;
+}
+
+.navegador li a {
+	background-color: #3C8DBC;
+	color: #fff;
+	text-decoration: none;
+	padding: 10px 15px;
+	display: block;
+}
+
+.navegador li a:hover {
+	background-color: #434343;
+}
+
+.navegador > li {
+	float: left;
+}
+
+.navegador li ul {
+	display: none;
+	position: absolute;
+	min-width: 140px;
+}
+
+.navegador li:hover > ul {
+	display: block;
+}
+
+.navegador li ul li {
+	position: relative;
+}
+
+.navegador li ul li ul {
+	right: -140px;
+	top: 0px;
+}

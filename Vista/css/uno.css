@@ -1,0 +1,31 @@
+/* Esta parte la vamos a linkear desde todas las vistas para que se pueda ver zocalo de sesión*/
+.zocalo {
+	background-color: #3C8DBC;
+	height: 50px;
+	font-family: calibri;
+	color: white;
+	display: block;
+}
+
+.logo img{
+	width: 60px;
+	height:  40px;
+	border-radius: 50%;
+}
+
+.logo{
+	padding: 4px 85px;
+	float: left;
+}
+
+.sesion{
+	padding-right: 25px;
+	padding-top: 4px;
+	float: right;
+}
+
+img{
+	width: 40%;
+	border-radius: 50%;
+	align-content: center;
+}

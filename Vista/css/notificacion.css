@@ -1,0 +1,75 @@
+
+/*Estilo de FORMULARIO*/
+.datos1n{
+  margin: auto;
+  padding: 8px;
+  width: 45%;
+  border-radius: 8px;
+  border: 2px solid black;
+  font-family: calibri;
+  background-color: #D2D6DF;
+}
+.datos11{
+  width: 98%;
+  margin: auto;
+  position: center;
+  background-color: #D2D6DF;
+  font-family: calibri;
+  font-size: 14px;
+}
+
+.texto {
+	width: 100%;
+	padding: 2px;
+	background: white;
+	border-radius: 4px;
+	margin: 2px;
+	border: 1px solid black;
+	font-family: calibri;
+	font-size: 18px;
+	color: black;
+}
+.
+.texto1{
+
+	font-family: calibri;
+	font-weight: 800;
+	font-size: 18px;
+	color: black;
+}
+
+.texto2 {
+
+  width: 30%;
+  margin-right:auto;
+  padding: 2px;
+  background: white;
+  border-radius: 4px;
+  margin: 2px;
+  border: 2px solid black;
+  font-family: calibri;
+  font-size: 18px;
+  color: black;
+  margin: 0 auto;
+  text-align: center
+}
+
+
+caption {
+  padding: 5px;
+}
+
+table{
+  width: 98%;
+  margin: auto;
+}
+
+.boton {
+  width: 100%;
+  background: #3C8DBC;
+  color: white;
+  font-family: Calibri;
+  font-size: 30px;
+  border-radius: 8px;
+  border:  2px solid black; 
+}

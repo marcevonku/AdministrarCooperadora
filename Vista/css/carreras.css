@@ -1,0 +1,18 @@
+.datos1{
+  width: 98%;
+  margin: auto;
+  position: center;
+  background-color: #D2D6DF;
+  font-family: calibri;
+  font-size: 14px;
+}
+
+caption {
+  padding: 5px;
+}
+
+table{
+  width: 98%;
+  margin: auto;
+}
+
